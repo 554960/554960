@@ -1,37 +1,40 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharey1332.sharey1332&left_color=black&right_color=black&left_text=visitors" />
-
-## taha `@sharey1332`
-
-```diff
-+ backend developer
-+ axeprime
-+ albania
+```
+$ whoami
+> taha — backend dev @ axeprime
 ```
 
 <br>
 
-**daily.dev**
+<kbd>php</kbd> <kbd>javascript</kbd> <kbd>typescript</kbd> <kbd>c</kbd>
 
-```php
-<?php
+<kbd>laravel</kbd> <kbd>express</kbd> <kbd>vue</kbd> <kbd>node</kbd>
 
-$taha = [
-    'languages' => ['php', 'js', 'ts', 'c'],
-    'backend'   => ['laravel', 'express', 'node'],
-    'frontend'  => ['vue'],
-    'learning'  => 'system design & scalability'
-];
+<br>
 
-echo "let's build something cool";
+```
+$ cat interests.txt
+→ api design
+→ database optimization
+→ clean architecture
+→ shipping fast
 ```
 
 <br>
 
-**find me**
+```
+$ cat links.json
+{
+  "web": "axeprime.pro",
+  "instagram": "@shareyxrd"
+}
+```
 
-[![Web](https://img.shields.io/badge/axeprime.pro-111?style=flat-square)](https://axeprime.pro)
-[![Instagram](https://img.shields.io/badge/@shareyxrd-111?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/shareyxrd)
+<br>
 
 ---
 
-<sub>☕ fueled by mass mass mass mass mass</sub>
+<div align="center">
+  
+`open for collabs` · `albania`
+
+</div>
