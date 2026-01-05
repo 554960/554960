@@ -1,33 +1,37 @@
-```yaml
-name: taha
-role: backend developer
-location: albania
-company: axeprime
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharey1332.sharey1332&left_color=black&right_color=black&left_text=visitors" />
+
+## taha `@sharey1332`
+
+```diff
++ backend developer
++ axeprime
++ albania
 ```
+
+<br>
+
+**daily.dev**
+
+```php
+<?php
+
+$taha = [
+    'languages' => ['php', 'js', 'ts', 'c'],
+    'backend'   => ['laravel', 'express', 'node'],
+    'frontend'  => ['vue'],
+    'learning'  => 'system design & scalability'
+];
+
+echo "let's build something cool";
+```
+
+<br>
+
+**find me**
+
+[![Web](https://img.shields.io/badge/axeprime.pro-111?style=flat-square)](https://axeprime.pro)
+[![Instagram](https://img.shields.io/badge/@shareyxrd-111?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/shareyxrd)
 
 ---
 
-#### ⚡ stack
-
-|  |  |
-|--|--|
-| **languages** | `php` · `javascript` · `typescript` · `c` |
-| **backend** | `laravel` · `express.js` · `node.js` |
-| **frontend** | `vue.js` |
-| **db** | `mysql` · `postgresql` · `redis` |
-
----
-
-#### 🔗 links
-
-```
-├── web      → axeprime.pro
-├── ig       → @shareyxrd  
-└── github   → you're already here
-```
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=building+backends+that+scale;clean+code+%3E+clever+code;always+shipping" alt="Typing SVG" />
-</div>
+<sub>☕ fueled by mass mass mass mass mass</sub>
